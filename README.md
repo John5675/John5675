@@ -1,6 +1,9 @@
 ### Hi, I'm John!
 
-Studying Mathematics and Computer Science at University of California, San Diego<br/>
+🏫 Currently I am studying Mathematics and Computer Science at University of California, San Diego<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John5675)](https://github.com/John5675/github-readme-stats)
+
 <!--
 **John5675/John5675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
