@@ -4,6 +4,15 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John5675)](https://github.com/John5675/github-readme-stats)
 
+### 🔭 I’m currently working on: 
+- Personal Projects
+
+### 🌱 I’m currently learning: 
+- AWS
+
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/johnhuynh238/)
+
 <!--
 **John5675/John5675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
