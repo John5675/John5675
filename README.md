@@ -1,6 +1,6 @@
 ### Hi, I'm John!
 
-
+Studying Mathematics and Computer Science at University of California, San Diego<br/>
 <!--
 **John5675/John5675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
