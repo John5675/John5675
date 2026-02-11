@@ -2,14 +2,6 @@
 
 🏫 Currently I am studying Mathematics and Computer Science at University of California, San Diego<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John5675)](https://github.com/John5675/github-readme-stats)
-
-### 🔭 I’m currently working on: 
-- Personal Projects
-
-### 🌱 I’m currently learning: 
-- AWS
-
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/johnhuynh238/)
 
