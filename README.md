@@ -1,21 +1,13 @@
 ### Hi, I'm John!
 
-🏫 Currently I am studying Mathematics and Computer Science at University of California, San Diego<br/>
+I’m a Mathematics and Computer Science graduate from the University of California, San Diego, currently working as a Software Engineering Intern at Resmed.
 
-### 📫 How to reach me:
+I’m interested in backend engineering, developer tooling, and applied AI systems. Recently, I’ve been working with technologies like Java, Spring Boot, React, TypeScript, AWS, Kubernetes, Terraform, and MongoDB.
+
+### 🔭 Currently
+- Building backend-focused projects to deepen my Spring Boot and systems design skills
+- Exploring applied AI and developer productivity tooling
+- Interested in software engineering roles focused on backend, platform, or AI-enabled products
+
+### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/johnhuynh238/)
-
-<!--
-**John5675/John5675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
