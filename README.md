@@ -13,14 +13,6 @@ I'm interested in reliable backend services, developer tooling, and applied AI.
 - **Reliability & testing:** Observability, integration testing, and performance engineering.
 - **Engineering automation:** CI/CD, release workflows, and developer tools using MCP.
 
-## Selected projects
-
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [Rallymetry](https://github.com/John5675/rallymetry) | Computer vision pipeline and review dashboard for doubles pickleball, with player tracking, rally and shot analysis, and match metrics. | Python, FastAPI, React, TypeScript, MongoDB |
-| [AniQueue V2](https://github.com/John5675/AniQueue_V2) | Anime discovery and personal watchlists with search, airing schedules, and JWT authentication. | React, Django REST Framework, Jikan API |
-| [Anime Rating Prediction](https://github.com/John5675/anime-rating-prediction) | Exploratory data analysis and regression experiments for anime ratings. | Python, pandas, scikit-learn |
-
 ## Technologies
 
 Across work and personal projects:
